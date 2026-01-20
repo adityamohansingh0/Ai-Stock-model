@@ -64,7 +64,7 @@
     <li>Clone this repository:</li>
     <pre><code>git clone https://github.com/adityamohansingh0/Ai-Stock-model.git</code></pre>
     <li>Navigate to the project directory:</li>
-    <pre><code>cd nvda-stock-prediction</code></pre>
+    <pre><code>cd Ai-Stock-model</code></pre>
     <li>Install the required dependencies:</li>
     <pre><code>pip install -r requirements.txt</code></pre>
     <li>Run the project:</li>
@@ -114,10 +114,10 @@
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>👨‍💻 Author</h2>
-<p><strong>Saprit Anand</strong></p>
+<p><strong>Aditya Mohan Singh</strong></p>
 <ul>
-    <li><a href="https://github.com/sapritanand">GitHub</a></li>
-    <li><a href="https://www.linkedin.com/in/saprit-anand/">LinkedIn</a></li>
+    <li><a href="https://github.com/adityamohansingh0">GitHub</a></li>
+    <li><a href="www.linkedin.com/in/aditya-mohan-singh">LinkedIn</a></li>
 </ul>
 
 </body>
