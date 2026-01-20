@@ -81,8 +81,8 @@
 
 <h2>✨ Results</h2>
 <ul>
-    <li><strong>Training Loss</strong>: 2.74e-05</li>
-    <li><strong>Test Loss</strong>: 0.0015</li>
+    <li><strong>Training Loss</strong>: 2.1122e-05</li>
+    <li><strong>Test Loss</strong>: 0.0021</li>
 </ul>
 <p>The model shows promising results for predicting short-term trends in stock prices. Further improvements can be made by tuning hyperparameters and experimenting with different network architectures.</p>
 
