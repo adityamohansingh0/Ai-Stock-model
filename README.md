@@ -62,7 +62,7 @@
 <p>To get started, follow these steps:</p>
 <ol>
     <li>Clone this repository:</li>
-    <pre><code>git clone https://github.com/sapritanand/nvda-stock-prediction.git</code></pre>
+    <pre><code>git clone https://github.com/adityamohansingh0/Ai-Stock-model.git</code></pre>
     <li>Navigate to the project directory:</li>
     <pre><code>cd nvda-stock-prediction</code></pre>
     <li>Install the required dependencies:</li>
